@@ -27,4 +27,4 @@ My contacts:
 
 - VK https://vk.com/mein_gott_a
 - TG https://t.me/Hyp3rKI11er3t3a1th31ay3r
-- Git https://github.com/arseniy2007c
+- Git https://github.com/arseniy2007chukhnov-sudo
