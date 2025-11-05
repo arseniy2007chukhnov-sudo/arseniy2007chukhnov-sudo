@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**arseniy2007chukhnov-sudo/arseniy2007chukhnov-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Arseniy.
+ I'm a first-year student at Irkutsk State University, majoring in Software Development.
+<hr>
+### I'm currently learning
 
-Here are some ideas to get you started:
+<br>
+  <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML5" style="height: 16px; vertical-align: middle;"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS3" style="height: 16px; vertical-align: middle;">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+&nbsp;
+<hr>
+### My contacts
+
+- VK https://vk.com/mein_gott_a
+- TG https://t.me/Hyp3rKI11er3t3a1th31ay3r
+- Git https://github.com/arseniy2007chukhnov-sudo/arseniy2007chukhnov-sudo
